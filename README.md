@@ -53,7 +53,7 @@ The goal is to compare the performance of these methods and understand how threa
    python main.py
    
 3. The script will:
-   - Load URLs from `urls_10.txt`, `urls_20.txt`, `urls_30.txt`, and `urls_100.txt`.
+   - Load URLs from `urls_10.txt`, `urls_30.txt`, `urls_50.txt`, and `urls_100.txt`.
    - Perform scraping using the Basic, Threading, and Async methods.
    - Save the results in the `results/` directory and print execution times to the terminal.
 
