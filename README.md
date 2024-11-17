@@ -12,6 +12,19 @@ The goal is to compare the performance of these methods and understand how threa
 
 ## How to Use
 
+### Prerequisites
+- **Python**: Make sure Python 3.8 or later is installed on your system. You can check this by running:
+  ```bash
+  python --version
+  ```
+  If Python is not installed, download it from [python.org](https://www.python.org) and follow the installation instructions.
+  
+- **Pip**: Ensure that `pip` (Python package installer) is installed and updated. You can check this by running:
+  ```bash
+  pip --version
+  ```
+  If `pip` is not installed, refer to the [pip installation guide](https://pip.pypa.io/en/stable/installation/)
+
 ### Setup Instructions
 1. **Clone the repository**:
    ```bash
